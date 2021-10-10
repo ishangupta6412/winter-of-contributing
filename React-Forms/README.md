@@ -1,6 +1,6 @@
 
 # React Forms
-As we know HTML also provides a form but it's a bit different from other DOM(Document Object Module) in React.
+As we know HTML also provides a form but it's a bit different from other DOM in React.
 
 The form below accepts a Name and Age as input.
 
